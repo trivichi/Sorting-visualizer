@@ -1,8 +1,5 @@
 # 🚀 Sorting Visualizer
 
-::: {align="center"}
-![Logo](public/logo.png)
-`<!-- Replace with actual path if different -->`{=html}
 
 [![GitHub
 stars](https://img.shields.io/github/stars/trivichi/Sorting-visualizer?style=for-the-badge)](https://github.com/trivichi/Sorting-visualizer/stargazers)
