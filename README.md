@@ -13,7 +13,7 @@ license](https://img.shields.io/github/license/trivichi/Sorting-visualizer?style
 **A visual representation of various sorting algorithms built with React
 and Tailwind CSS.**
 
-[Live Demo](https://trivichi.github.io/Sorting-visualizer) \|
+[Live Demo](https://trivichi.github.io/sorting-visualizer/) \|
 [Documentation](https://github.com/trivichi/Sorting-visualizer/wiki)
 :::
 
