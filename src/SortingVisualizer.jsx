@@ -49,7 +49,9 @@ export default function SortingVisualizer() {
 
   return (
     <div className="w-full max-w-5xl mx-auto p-4">
-      <Bars className="m-4"array={array} compared={compared} isSorted={isSorted} barCount={barCount} />
+      <div className="w-full max-w-6xl flex items-end justify-center gap-[2px] bg-white/5 backdrop-blur-md border border-white/20 rounded-2xl shadow-2xl p-4 overflow-hidden">
+        <Bars array={array} compared={compared} isSorted={isSorted} barCount={barCount} />
+      </div>
       <div className="m-4">
       <Controls isSorting={isSorting} generateArray={generateArray} handleSort={handleSort} />
       </div>

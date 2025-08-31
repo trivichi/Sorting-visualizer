@@ -1,7 +1,7 @@
 export function AlgorithmSelector({ algorithm, setAlgorithm, isSorting }) {
   const algorithms = ["bubble", "selection", "insertion", "merge", "quick", "counting"]; 
   return (
-    <div className="flex justify-center gap-2 mb-2">
+    <div className="flex flex-wrap justify-center gap-2 mb-6">
       {algorithms.map((alg) => (
         <button
             key={alg}
